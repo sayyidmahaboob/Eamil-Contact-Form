@@ -92,3 +92,7 @@ button:hover {
     background-position: var(--width);
   }
 }
+
+textarea {
+  resize: none;
+}
